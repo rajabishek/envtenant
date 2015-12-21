@@ -1,7 +1,6 @@
 <?php
 namespace ThinkSayDo\EnvTenant;
 
-use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Support\ServiceProvider;
 
 class TenantServiceProvider extends ServiceProvider
